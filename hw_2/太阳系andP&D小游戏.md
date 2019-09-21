@@ -53,7 +53,29 @@
 	}
 	```
 	
-	- 000
+	- 使用Rigidbody
+	
+	```c#
+	public class Parabola3 : MonoBehaviour {
+	
+	    private Rigidbody rigid;
+	    private Vector3 v0;
+	
+	    // Use this for initialization
+	    void Start()
+	    {
+	        rigid = this.GetComponent<Rigidbody>();
+	        v0 = new Vector3(3, 10, 0);
+	        rigid.velocity = v0;
+	    }
+	
+	    // Update is called once per frame
+	    void Update()
+	    {
+	
+	    }
+	}
+	```
 	
 - 写一个程序，实现一个完整的太阳系， 其他星球围绕太阳的转速必须不一样，且不在一个法平面上。
 
@@ -149,5 +171,5 @@ MVC结构：
 
 - Controller：逻辑处理的板块，连接View和Model，View点击传回的参数与Model的参数原型进行对比和处理，然后返回参数给View决定展示的效果。
 
-[](！！！！代码&视频！！！！)
+[<https://github.com/iamcaiji/3d-game-programing/tree/master/hw_2>](！！！！代码&视频！！！！)
 
