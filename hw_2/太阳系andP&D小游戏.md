@@ -145,9 +145,9 @@
 
   效果图：
 
-  ![](../asset/hw2/1.png)
+  ![](../asset/hw2/1.PNG)
 
-  ![](../asset/hw2/2.png)
+  ![](../asset/hw2/2.PNG)
 
   为了方便查看轨迹，直接对每一个对象加了一个组件，界面上点击Component->Effects->Trail Renderer，然后自己根据需要调整即可。
 
