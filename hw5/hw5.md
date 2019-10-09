@@ -360,4 +360,4 @@ public void ClearAll(){
 
 个人觉得难点在于对于飞碟的动作的管理，资源的回收和管理，以及按照高内聚低耦合的结构去完成设计。
 
-## [代码&视频]()
+## [代码&视频](https://github.com/iamcaiji/3d-game-programing/tree/master/hw5)
