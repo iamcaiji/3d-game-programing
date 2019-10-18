@@ -42,4 +42,4 @@
 
 以上就是自己改善的运动学版本和动力学版本的兼容，在上次的代码随便简单加工一下的。
 
-### **[代码和视频]()**
+### **[代码和视频](https://github.com/iamcaiji/3d-game-programing/tree/master/hw6-改进UFO)**
